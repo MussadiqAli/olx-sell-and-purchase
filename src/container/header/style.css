@@ -1,0 +1,97 @@
+/* ============ Search bar ================= */
+
+.searchSection{
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+.logo{
+    margin: 6px 0px 10px 10px;
+    
+    height: 30px;
+}
+
+.locationSearch{
+    background-image: url('../images/search.png');
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position-y: 5px;
+    background-position-x: 5px;
+    margin: 0px 2px 0px 2px;
+    width: 20%;
+    height: 45px;
+    padding: 0px 0px 0px 50px;
+    font-size: 16px;
+    outline-color: rgb(129, 229, 236);
+}
+
+.productSearch{
+    background-image: url('../images/search.png');
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position-y: 5px;
+    background-position-x: 5px;
+    width: 50%;
+    margin: 0px 2px 0px 2px;
+    height: 45px;
+    padding: 0px 0px 0px 50px;
+    font-size: 16px;
+    outline-color: rgb(129, 229, 236);
+    border: solid 2px rgb(107, 107, 107);
+}
+.logoBtn{
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    height: 45px;
+    background-color: transparent;
+}
+.SellBtn{
+    border-radius: 60px;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 6px 14px 6px 14px;
+    border: solid rgb(92, 166, 190) 5px;
+    height: 45px;
+    min-width: 100px;
+    margin-right: 2px;
+}
+
+
+
+
+
+
+
+/* =================== Nav bar ==================== */
+.mdiv{
+    padding: 10px 0px 5px 0px;
+}
+
+.catagories{
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0px 20px 0px 20px;
+}
+
+.nav p{
+    cursor: pointer;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+/* =========================== slider ========================== */
+.slid{
+    width: 100%;
+}

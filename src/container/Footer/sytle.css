@@ -1,0 +1,65 @@
+.foo{
+    background-color: rgb(230, 230, 230);
+    
+}
+.footer{
+    text-align: left;
+    padding: 20px 30px 30px 30px;
+}
+.footer .col .head {
+    font-weight: bold; 
+    font-size: 14px;
+}
+.footer .col .content{
+    font-size: 13px;
+    margin: 4px;
+    padding: 0;
+    color: rgb(107, 107, 107);
+    cursor: pointer;
+}
+.icon{
+    width: 70px;
+    margin: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* =============== copywrite section ============= */
+
+.copywrite {
+    background: #002f34;
+    padding: 20px 0px 10px 0px;
+    
+}
+.lefthead{
+    color: #fff;
+    padding: 2px;
+    font-size: 13px;
+    float: left;
+}
+.leftCon{
+    color: #fff;
+    margin-left: 8px;
+    font-size: 13px;
+    float: left;
+}
+.rightHead{
+    color: #fff;
+    padding: 2px;
+    font-size: 13px;
+    
+}
+.rightCon{
+    color: #fff;
+    margin-left: 8px;
+    font-size: 13px;
+    
+}
